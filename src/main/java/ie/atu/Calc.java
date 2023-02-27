@@ -7,6 +7,9 @@ public class Calc {
         add();
 
     }
+    public static void delete(){
+
+    }
     public static void add(){
         System.out.println("please enter your first number :");
         Scanner inputs = new Scanner(System.in);                  //scans users input
